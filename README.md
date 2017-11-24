@@ -1,1 +1,1 @@
-Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Spring 2017.
+Implemented kNN, SVM, softmax, 2 layer NN for classifying FICAR_10 dataset
